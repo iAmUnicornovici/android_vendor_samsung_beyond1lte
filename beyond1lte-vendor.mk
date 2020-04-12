@@ -132,7 +132,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/beyond1lte/proprietary/system/media/charging_New_Fast.spi:$(TARGET_COPY_OUT_SYSTEM)/media/charging_New_Fast.spi \
     vendor/samsung/beyond1lte/proprietary/system/media/charging_New_Normal.spi:$(TARGET_COPY_OUT_SYSTEM)/media/charging_New_Normal.spi \
     vendor/samsung/beyond1lte/proprietary/system/media/dock_error_usb.spi:$(TARGET_COPY_OUT_SYSTEM)/media/dock_error_usb.spi \
-    vendor/samsung/beyond1lte/proprietary/system/media/fruc_kernels.exynos9820.bin:$(TARGET_COPY_OUT_SYSTEM)/media/fruc_kernels.exynos9820.bin \
+    vendor/samsung/beyond1lte/proprietary/vendor/firmware/fruc_kernels.exynos9820.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fruc_kernels.exynos9820.bin \
     vendor/samsung/beyond1lte/proprietary/system/media/incomplete_connect.spi:$(TARGET_COPY_OUT_SYSTEM)/media/incomplete_connect.spi \
     vendor/samsung/beyond1lte/proprietary/system/media/percentage.spi:$(TARGET_COPY_OUT_SYSTEM)/media/percentage.spi \
     vendor/samsung/beyond1lte/proprietary/system/media/safety_timer_usb.spi:$(TARGET_COPY_OUT_SYSTEM)/media/safety_timer_usb.spi \
